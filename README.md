@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Furkan Abdulhakimoğulları. I am a 4 grade Electrical-Electronic Engineering student at Istanbul University-Cerrahpasa
+- 👋 Hi, I’m Furkan Abdulhakimoğulları. I am a student at Istanbul University-Cerrahpasa
 - 👀 I’m interested in Embedded Software and Web Programming
 - 🌱 I’m currently learning C, C++, Javascript and React
 - 📫 You can reach me using https://www.linkedin.com/in/furkan-abdulhakim/ or hakimoglufurkan@gmail.com
